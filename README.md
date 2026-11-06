@@ -3,6 +3,8 @@
 `world-dashboard.html` is a single self-contained file (≈0.67 MB, no libraries, no network calls) that
 plots 217 economies as bubbles and animates them from 1960 to 2026.
 
+**Live dashboard:** [data-vissulaxzation.netlify.app](https://data-vissulaxzation.netlify.app)
+
 - **X / Y / size / colour** are each switchable between nine World Bank indicators
   (GDP per capita PPP, GDP per capita constant 2015 US$, life expectancy, CO₂ per capita,
   population, fertility, under-5 mortality, urban share, energy use per capita).
